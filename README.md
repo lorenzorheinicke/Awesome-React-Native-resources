@@ -8,8 +8,8 @@ This is a awesome list of [react native](https://facebook.github.io/react-native
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Articles](#articles)
-- [React/NextJS Articles](#react)
-- [Code and Tools](#codeandtools)
+- [React/NextJS Articles](#reactnextjs-articles)
+- [Code and Tools](#code-and-tools)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
