@@ -34,7 +34,7 @@ This is a awesome list of [react native](https://facebook.github.io/react-native
 ## React/NextJS Articles
 
 * [How to Make Your Existing React App Progressive in 10 Minutes](https://scotch.io/tutorials/how-to-make-your-existing-react-app-progressive-in-10-minutes)
-* [Hello, Create React App 2.0!](https://www.telerik.com/blogs/hello-create-react-app-2)
+* [The Fullstack Guide To What's New in Create React App 2.0 - And How To Use It - Sass, Fragments, Code Splitting and More](https://www.fullstackreact.com/articles/fullstack-guide-whats-new-in-create-react-app-and-how-to-use-it)
 * [Death by a thousand cuts - a checklist for eliminating common React performance issues](https://logrocket-blog.ghost.io/death-by-a-thousand-cuts-a-checklist-for-eliminating-common-react-performance-issues/)
 * [Accept payments on your site with NextJS, Stripe, and Micro](https://hackernoon.com/accept-payments-on-your-site-with-nextjs-stripe-and-micro-371de95b22d5)
 * [Build A Chat App With Sentiment Analysis Using Next.js](https://codeburst.io/build-a-chat-app-with-sentiment-analysis-using-next-js-c43ebf3ea643)
